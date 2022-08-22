@@ -35,8 +35,11 @@ class AbrivationPrinter
 	// Calling the main method
 	public static void main(String args[])
 	{	
-		// Calling the abrivation printer method
-		printAbrivationOf(args[0]);			
+		// Storing the abrivation in a variable 
+		String abrivation=args[0];
+		
+		// Calling the abrivation printer method and passing a argument
+		printAbrivationOf(abrivation.toLowerCase());			
 		
 	}
 }
