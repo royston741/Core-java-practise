@@ -9,12 +9,11 @@
 	   Array : - It is a collection of similar datatypes.
 			   - It's index starts with index 0 and ends at array size - 1.
 			   - Types : 1) One dimensional array - [1,2,3]
-						 2) Two dimensional array - [[1,2,3],
-													 [4,5,6]]
-						 3) Multi dimensional array - [[1,2,3,4],
-													   [5,6,7,8],
-													   [9,10,11,12],
-													   ...]
+				     2) Two dimensional array - [[1,2,3],
+								 [4,5,6]]
+				     3) Multi dimensional array - [[1,2,3,4],
+								   [5,6,7,8],
+							           [9,10,11,12],...]
 	 ------------*/
 
 //Creating a class named ArrayDemo
