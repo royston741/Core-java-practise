@@ -17,10 +17,10 @@ class MatrixAddition{
 	
 		// matrix 1
 		int [][] matrix1={{1,2,3},
-						{4,5,6}};
+				  {4,5,6}};
 		// matrix 2						
 		int [][] matrix2={{1,2,3},
-						{4,5,6}};					 
+				  {4,5,6}};					 
 		
 		int [][] resultMatrix=new int[2][3];
 		
