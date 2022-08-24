@@ -1,10 +1,10 @@
 /*
 	Program: Program to print the following pattern
-				*
-				**
-				***
-				****
-				*****	
+		 *
+		 **
+		 ***
+		 ****
+		 *****	
 	@author: Royston
 	@Date  : 23 August 
 */
