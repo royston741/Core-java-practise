@@ -13,10 +13,10 @@ class MultiDimensionalArray{
 		// Creating a multidimenssional array 
 		int [][] arr={  
 				  // horizontal(column)
-				 //    <-------->	^	
-					  	{1,2,3}, // |
-						{4,5,6}, // |  vertical(row)	
-						{7,8,9}  // |
+				 //    <-------->   ^	
+				        {1,2,3}, // |
+				        {4,5,6}, // |  vertical(row)	
+				        {7,8,9}  // |
 					 };
 		
 		System.out.println("printing the multidimenssional array using normal for loop");
