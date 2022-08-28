@@ -1,0 +1,11 @@
+vargs-use to send any no. of argument
+
+ellipse operator- ...
+
+method overloading - two or more method with same name but different parameters.
+					method overloaing cannot be performed by changing the return type of methods   
+   	
+
+ambiguity-having more methods gets confused,not able to decide which method to call
+
+static method can call only a static method
