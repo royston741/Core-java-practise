@@ -1,5 +1,4 @@
 /*
-	\
 	Program: Creating a Laptop class  
 	@author: Royston
 	@Date  : 29 August 
