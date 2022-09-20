@@ -1,0 +1,10 @@
+	Object oriented programing 
+	
+	class :- blue print of object 
+	object :- instance of a class 
+	
+	advantage of OOP 
+	
+	features of OOP :-
+	1) encaptulation
+	2) abstraction
