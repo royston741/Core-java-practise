@@ -18,7 +18,7 @@ class Student{
 	/* 
 		we can have many constructor in our class and the constructor would be 
 		selected on the basis of parameter i.e method overloading
-		polymorphisum :- one mae may forms
+		polymorphisum :- one name may forms
 	
 		when we create parameterised constructor there is also a need of creating 
 		no argument constructor
