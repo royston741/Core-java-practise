@@ -1,0 +1,4 @@
+encaptulation - binding all data into single entity
+data hiding - using private keyword
+package
+static
