@@ -1,0 +1,5 @@
+a packeage a group
+this keyword cannot be used on static keyord
+this referes to current object
+static method can call only static variables
+non static method can call both static variables and non static variables
