@@ -1,0 +1,3 @@
+Varags allows us provide any number of parameters
+
+because of primitive data types java is not pure oop
